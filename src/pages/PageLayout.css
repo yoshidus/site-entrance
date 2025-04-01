@@ -1,0 +1,30 @@
+.page-layout {
+  background-color: #290043;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background-color: #3d218d;
+  padding: 10px;
+}
+
+header .logo {
+  height: 50px;
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
